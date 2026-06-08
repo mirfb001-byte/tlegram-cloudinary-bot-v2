@@ -1,2 +1,0 @@
-requests==2.31.0
-cloudinary==1.38.0
